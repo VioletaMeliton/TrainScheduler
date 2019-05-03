@@ -1,0 +1,20 @@
+.jumbotron{
+    background-color: burlywood;
+    margin: 20px;
+
+
+}
+.card{
+    margin: 20px;
+    border: 2px solid dodgerblue;
+    
+}
+.card-header{
+    background-color: dodgerblue;
+}
+.form-group{
+    margin: 8px;
+}
+button{
+    margin: 5px;
+}
